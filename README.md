@@ -4,7 +4,7 @@
 
 ## Projeto
 
-Primeiro projeto utilizando o display flex. Criado durante as aulas da disciplina Linguagem de Marcação no curso da escola SENAI Jandira.
+Segundo projeto utilizando o display flex. Criado durante as aulas da disciplina Linguagem de Marcação no curso da escola SENAI Jandira.
 
 ## Tecnologias
 * HTML
