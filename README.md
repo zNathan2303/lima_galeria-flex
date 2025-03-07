@@ -1,4 +1,4 @@
-# lima_galeria-grid
+# lima_galeria-flex
 
 ![](<./preview.png>)
 
